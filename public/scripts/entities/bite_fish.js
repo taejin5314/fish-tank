@@ -3,5 +3,4 @@ class BiteFish extends Fish {
     super(options);
     this.imageUri = `/images/bite-fish.gif`;
   }
-  
 }
